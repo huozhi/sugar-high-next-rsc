@@ -1,0 +1,17 @@
+{
+  "name": "sugar-high-next-rsc",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+
+  },
+  "license": "MIT",
+  "dependencies": {
+    "next": "^12.0.11-canary.17",
+    "react": "^18.0.0-rc.0",
+    "react-dom": "^18.0.0-rc.0",
+    "sugar-high": "^0.1.2"
+  }
+}
